@@ -3,7 +3,6 @@
 🎓 B.Tech CSE (IoT) Student  
 💻 Java & Python Developer  
 🤖 Exploring AI & Machine Learning  
-🌍 Aspiring to pursue Masters in the UK  
 
 ---
 
