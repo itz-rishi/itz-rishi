@@ -36,7 +36,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: [Click here](https://github.com/your-username)
+- GitHub: [Click here](https://github.com/itz-rishi)
 - LinkedIn: [Click here](https://www.linkedin.com/in/rishi-mathur-7222402a8/)
 
 ---
